@@ -1,0 +1,25 @@
+.error-div {
+    min-height: 500px;
+    margin: 30px 0;
+}
+.error-div .sad-code {
+    color: #d35400;
+    font-size: 170px;
+    font-weight: bold;
+
+}
+
+.error-div .sad-text {
+    color: #555;
+    font-size: 35px;
+
+}
+.error-div .sad-text .unfortunately {
+    color: #d35400;
+    font-weight: bold;
+}
+.error-div .sad-mes {
+    font-size: 25px;
+    margin-top: 10px;
+    color: #666;
+}

@@ -1,0 +1,73 @@
+body {
+    padding-top: 50px;
+
+}
+
+h1, h2, h3, h4, h5, p, .lead {
+    font-family: 'Droid Serif', serif;
+}
+
+.navbar-inverse .navbar-nav >
+.active > a, .navbar-inverse .navbar-nav >
+.active > a:hover, .navbar-inverse .navbar-nav >
+.active > a:focus {
+    background: #d35400;
+    font-size: 20px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #ccc;
+    padding-top: 15px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ddd;
+}
+
+.navbar-inverse .navbar-brand span {
+    color: #d35400;
+}
+
+.navbar-nav > li > .dropdown-menu {
+    /*background: #e67e22;*/
+    border-top: 3px solid #d35400;
+    width: 180px;
+}
+
+.dropdown-menu > li > a {
+    padding-left: 20;
+    -webkit-transition: padding 0.5s ease;
+    -moz-transition: padding 0.5s ease;
+    -o-transition: padding 0.5s ease;
+    transition: padding 0.5s ease;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 25px;
+}
+
+.navbar-right .dropdown-menu {
+    left: 0;
+    right: auto;
+}
+
+.dropdown-menu > li > a:hover {
+    background: #e67e22;
+    color: #fff;
+    padding-left: 25px;
+}
+
+.dropdown-menu .divider {
+    color: #e67e22;
+    background: #e67e22;
+}
+
+.navbar-form .form-control {
+    width: 400px;
+}
+
+
+
+

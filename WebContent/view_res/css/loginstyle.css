@@ -1,0 +1,121 @@
+body {
+    margin-top: 55px;
+}
+
+.navbar-inverse .navbar-nav >
+.active > a, .navbar-inverse .navbar-nav >
+.active > a:hover, .navbar-inverse .navbar-nav >
+.active > a:focus {
+    background: #d35400;
+    font-size: 20px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #ccc;
+    padding-top: 15px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ddd;
+}
+
+.navbar-inverse .navbar-brand span {
+    color: #d35400;
+}
+
+.navbar-nav > li > .dropdown-menu {
+    /*background: #e67e22;*/
+    border-top: 3px solid #d35400;
+    width: 180px;
+}
+
+.dropdown-menu > li > a {
+    padding-left: 20;
+    -webkit-transition: padding 0.5s ease;
+    -moz-transition: padding 0.5s ease;
+    -o-transition: padding 0.5s ease;
+    transition: padding 0.5s ease;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 25px;
+}
+
+.navbar-right .dropdown-menu {
+    left: 0;
+    right: auto;
+}
+
+.dropdown-menu > li > a:hover {
+    background: #e67e22;
+    color: #fff;
+    padding-left: 25px;
+}
+
+.dropdown-menu .divider {
+    color: #e67e22;
+    background: #e67e22;
+}
+
+.navbar-form .form-control {
+    width: 400px;
+}
+
+/*form new use*/
+
+.bold-font {
+    font-size: 22px;
+    margin-bottom: 70px;
+}
+
+.logo-letter .font-size-biger {
+    font-size: 180px;
+    color: #d35400;
+    margin-bottom: 0px;
+    padding-top: 10px;
+
+}
+
+.form-login {
+    margin-top: -50px;
+    margin-bottom: 20px;
+}
+.form-login .padingupdown {
+    padding-top: 10px ;
+    padding-bottom: 10px;
+}
+
+.log-2 {
+    float: right;
+    font-size: 80%;
+    position: relative;
+    top: -10px
+}
+
+.log-1 {
+    margin-top: 50px;
+}
+
+.log-3 {
+    padding-top: 30px
+}
+
+.log-4 {
+    display: none
+}
+
+.log-5 {
+    margin-bottom: 25px
+}
+
+.log-6 {
+    margin-top: 10px
+}
+
+.log-7 {
+    border-top: 1px solid #888;
+    padding-top: 15px;
+    font-size: 85%
+}

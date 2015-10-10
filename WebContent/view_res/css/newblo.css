@@ -1,0 +1,20 @@
+body{
+    margin-top: 0px;
+}
+.blo-1 {
+    margin-top: 10px;
+    min-height: 565px;
+}
+
+.blo-1 textarea{
+    height: 270px;
+}
+.blo-1 .bold-font {
+    font-size: 20px;
+}
+.blo-1 .marg_buton10 {
+    margin-bottom: 40px;
+}
+.blo-1 .marg_buton11 {
+    margin-top: 49px;
+}

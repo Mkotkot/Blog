@@ -1,0 +1,95 @@
+h1, h2, h3, h4, h5, p, .lead {
+	font-family: 'Droid Serif', serif;
+}
+
+body>div.blop-list>div>div>div>div.blo-item-top.row>div.col-sm-6.hidden-xs.text-right>a.wight-c
+	{
+	color: #ffffff;
+}
+
+.blop-list {
+	margin-top: 80px;
+	min-height: 650px;
+}
+
+.blop-list .auther-name #auth :hover {
+	color: #d35400;
+}
+
+.blop-list a {
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.blop-list a:hover {
+	text-decoration: none;
+	color: #d35400;
+}
+
+.bold-font {
+	font-size: 25px;
+}
+
+.blop-list .inner-blop-list {
+	border-bottom: 1px solid #ddd;
+}
+
+.blop-list .sup-text-blo p {
+	font-size: 16px;
+	line-height: 30px;
+	color: #555;
+}
+
+.blop-list .inner-blop-list:hover {
+	border-bottom: 1px solid #d35400;
+}
+
+.blop-list .blo-item a {
+	font-size: 12px;
+	margin-top: 30px;
+	text-decoration: none;
+}
+
+.blop-list .blo-item a:hover {
+	color: #d35400;
+}
+
+body .blop-list .blo-item .none-decrothon:hover {
+	color: #d35400;
+}
+
+.plog-text0 {
+	
+}
+
+.plog-text0 button {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	line-height: 0.77;
+}
+
+.plog-text1 {
+	height: 150px;
+	overflow: hidden;
+}
+
+.blop-list .blo-item {
+	padding-bottom: 20px;
+	position: relative;
+	border-bottom: 1px solid #aaa;
+}
+
+#auth {
+	font-size: 18px;
+}
+
+.marg10 {
+	margin-top: 20px
+}
+
+.noblog {
+	color: #d35400;
+	font-weight: bold;
+	font-size: 22px
+}

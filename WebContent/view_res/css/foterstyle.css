@@ -1,0 +1,22 @@
+h1, h2, h3, h4, h5, p, .lead {
+	font-family: 'Droid Serif', serif;
+}
+/*thats for footer styling */
+.copy-right {
+	background: #444;
+	max-height: 50px;
+	overflow: hidden;
+}
+
+.copy-right .inner-copy-right {
+	padding-top: 15px;
+}
+
+.copy-right .inner-copy-right p {
+	color: #eee;
+	font-size: 15px;
+}
+
+.copy-right .inner-copy-right p span {
+	color: #ff5a00;
+}
